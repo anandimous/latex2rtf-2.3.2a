@@ -1,0 +1,132 @@
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=latex 2011.5.25)  10 MAR 2017 00:15
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**dblspace
+(./dblspace.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2009-06-19, ngerman-x-2009-06-19, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, galician, german, ngerman, swissgerman, monogreek, greek, hungarian,
+ icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, marathi, or
+iya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, kurmanji,
+ lao, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, pol
+ish, portuguese, romanian, russian, sanskrit, serbian, slovak, slovenian, spani
+sh, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded.
+(/util/texlive-20110525/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(/util/texlive-20110525/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/util/texlive-20110525/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
+
+Package: `setspace' 6.7 <2000/12/01>
+)
+No file dblspace.aux.
+\openout1 = `dblspace.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 4.
+LaTeX Font Info:    ... okay on input line 4.
+No file dblspace.toc.
+\tf@toc=\write3
+\openout3 = `dblspace.toc'.
+
+[1
+
+
+]
+No file dblspace.lof.
+\tf@lof=\write4
+\openout4 = `dblspace.lof'.
+
+[2
+
+]
+Chapter 1.
+
+LaTeX Warning: Reference `fig1' on page 3 undefined on input line 18.
+
+
+LaTeX Warning: Reference `fig1' on page 3 undefined on input line 32.
+
+
+LaTeX Warning: Reference `fig3' on page 3 undefined on input line 32.
+
+[3
+
+]
+
+LaTeX Warning: Reference `fig1' on page 4 undefined on input line 43.
+
+
+LaTeX Warning: Reference `fig3' on page 4 undefined on input line 43.
+
+
+LaTeX Warning: Reference `fig1' on page 4 undefined on input line 54.
+
+
+LaTeX Warning: Reference `fig3' on page 4 undefined on input line 54.
+
+
+LaTeX Warning: Reference `fig2' on page 4 undefined on input line 67.
+
+[4] [5]
+Chapter 2.
+
+LaTeX Warning: Reference `fig1' on page 6 undefined on input line 84.
+
+
+LaTeX Warning: Reference `fig3' on page 6 undefined on input line 84.
+
+
+LaTeX Warning: Reference `fig2' on page 6 undefined on input line 104.
+
+
+LaTeX Warning: Reference `fig4' on page 6 undefined on input line 104.
+
+[6
+
+] [7] [8] (./dblspace.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 271 strings out of 493764
+ 3129 string characters out of 3145388
+ 52091 words of memory out of 3000000
+ 3648 multiletter control sequences out of 15000+200000
+ 5765 words of font info for 21 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 23i,4n,17p,156b,190s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on dblspace.dvi (8 pages, 7676 bytes).

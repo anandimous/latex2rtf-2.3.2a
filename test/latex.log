@@ -1,0 +1,60 @@
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010)
+ restricted \write18 enabled.
+entering extended mode
+(./hyperref.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2009-06-19, ngerman-x-2009-06-19, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, galician, german, ngerman, swissgerman, monogreek, greek, hungarian,
+ icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, marathi, or
+iya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, kurmanji,
+ lao, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, pol
+ish, portuguese, romanian, russian, sanskrit, serbian, slovak, slovenian, spani
+sh, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded.
+(/util/texlive-20110525/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+(/util/texlive-20110525/texmf-dist/tex/latex/base/size10.clo))
+(/util/texlive-20110525/texmf-dist/tex/latex/hyperref/hyperref.sty
+(/util/texlive-20110525/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+(/util/texlive-20110525/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty))
+(/util/texlive-20110525/texmf-dist/tex/latex/graphics/keyval.sty)
+(/util/texlive-20110525/texmf-dist/tex/generic/ifxetex/ifxetex.sty)
+(/util/texlive-20110525/texmf-dist/tex/latex/oberdiek/kvoptions.sty)
+(/util/texlive-20110525/texmf-dist/tex/latex/hyperref/pd1enc.def)
+(/util/texlive-20110525/texmf-dist/tex/latex/latexconfig/hyperref.cfg)
+(/util/texlive-20110525/texmf-dist/tex/latex/url/url.sty))
+
+Package hyperref Message: Driver (default): hdvips.
+
+(/util/texlive-20110525/texmf-dist/tex/latex/hyperref/hdvips.def
+(/util/texlive-20110525/texmf-dist/tex/latex/hyperref/pdfmark.def
+(/util/texlive-20110525/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty)))
+(/util/texlive-20110525/texmf-dist/tex/latex/hyperref/nameref.sty
+(/util/texlive-20110525/texmf-dist/tex/generic/oberdiek/gettitlestring.sty))
+No file hyperref.aux.
+(./hyperref.out) (./hyperref.out)
+
+Package hyperref Warning: Rerun to get /PageLabels entry.
+
+
+LaTeX Warning: Reference `randomlabel' on page 1 undefined on input line 32.
+
+
+LaTeX Warning: Reference `randomlabel' on page 1 undefined on input line 32.
+
+
+Overfull \hbox (7.359pt too wide) in paragraph at lines 41--44
+[]\OT1/cmr/m/n/10 Now this link [][][][] does
+[1] (./hyperref.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ )
+(see the transcript file for additional information)
+Output written on hyperref.dvi (1 page, 5588 bytes).
+Transcript written on hyperref.log.

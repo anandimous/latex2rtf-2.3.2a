@@ -1,0 +1,161 @@
+This is pdfTeX, Version 3.1415926-1.40.11 (TeX Live 2010) (format=latex 2011.5.25)  10 MAR 2017 00:15
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**report
+(./report.tex
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman-x-2009-06-19, ngerman-x-2009-06-19, afrikaans, ancientgreek, ibycus, arabi
+c, armenian, basque, bulgarian, catalan, pinyin, coptic, croatian, czech, danis
+h, dutch, ukenglish, usenglishmax, esperanto, estonian, ethiopic, farsi, finnis
+h, french, galician, german, ngerman, swissgerman, monogreek, greek, hungarian,
+ icelandic, assamese, bengali, gujarati, hindi, kannada, malayalam, marathi, or
+iya, panjabi, tamil, telugu, indonesian, interlingua, irish, italian, kurmanji,
+ lao, latin, latvian, lithuanian, mongolian, mongolianlmc, bokmal, nynorsk, pol
+ish, portuguese, romanian, russian, sanskrit, serbian, slovak, slovenian, spani
+sh, swedish, turkish, turkmen, ukrainian, uppersorbian, welsh, loaded.
+(/util/texlive-20110525/texmf-dist/tex/latex/base/report.cls
+Document Class: report 2007/10/19 v1.4h Standard LaTeX document class
+(/util/texlive-20110525/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+No file report.aux.
+\openout1 = `report.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
+LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 6.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 6.
+[1
+
+]
+No file report.toc.
+\tf@toc=\write3
+\openout3 = `report.toc'.
+
+[1
+
+]
+No file report.lof.
+\tf@lof=\write4
+\openout4 = `report.lof'.
+
+[2
+
+]
+Chapter 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 19.
+
+LaTeX Warning: Reference `fig1' on page 3 undefined on input line 26.
+
+
+LaTeX Warning: Reference `fig1' on page 3 undefined on input line 40.
+
+
+LaTeX Warning: Reference `fig3' on page 3 undefined on input line 40.
+
+[3
+
+]
+
+LaTeX Warning: Reference `fig1' on page 4 undefined on input line 51.
+
+
+LaTeX Warning: Reference `fig3' on page 4 undefined on input line 51.
+
+
+LaTeX Warning: Reference `fig1' on page 4 undefined on input line 62.
+
+
+LaTeX Warning: Reference `fig3' on page 4 undefined on input line 62.
+
+
+LaTeX Warning: Reference `fig2' on page 4 undefined on input line 75.
+
+[4]
+Chapter 2.
+
+LaTeX Warning: Reference `fig1' on page 5 undefined on input line 92.
+
+
+LaTeX Warning: Reference `fig3' on page 5 undefined on input line 92.
+
+
+LaTeX Warning: Reference `fig2' on page 5 undefined on input line 112.
+
+
+LaTeX Warning: Reference `fig4' on page 5 undefined on input line 112.
+
+[5
+
+] [6]
+Appendix A.
+
+LaTeX Warning: Reference `fig1' on page 7 undefined on input line 143.
+
+
+LaTeX Warning: Reference `fig3' on page 7 undefined on input line 143.
+
+[7
+
+]
+Appendix B.
+
+LaTeX Warning: Reference `fig1' on page 8 undefined on input line 152.
+
+
+LaTeX Warning: Reference `fig3' on page 8 undefined on input line 152.
+
+[8
+
+] (./report.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 264 strings out of 493764
+ 2812 string characters out of 3145388
+ 52091 words of memory out of 3000000
+ 3637 multiletter control sequences out of 15000+200000
+ 9712 words of font info for 34 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 24i,11n,17p,337b,240s stack positions out of 5000i,500n,10000p,200000b,50000s
+
+Output written on report.dvi (9 pages, 10592 bytes).

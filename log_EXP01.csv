@@ -1,0 +1,17 @@
+DATE,TIME,DURATION,UBIT,ACTIVITY,TOOLS,NOTES
+,,,,,,
+"20170308,","03:33:00 PM,","30 m,","anandi,","TU,","git | gcc | build,",Commenced initial build and generated makefile. Installed require dependencies and matched cmake version
+"20170308,","04:40:00 PM,","60 m,","anandi,","TU | TD,","gcc | gdb,","Pushed to timberlake, ran gdb to scan through main_decode.c and stepped through relevant files to analyze code structure and assess decompression issue #57"
+"20170308,","05:00:00 PM,","20 m,","anandi,","TU | TD,","gdb | build,",Looked into premake and the generated makefile. Assessment terminted due to reliance on third-party complex spookyhash algorithm
+"20170309,","03:00:00 PM,","30 m,","anandi,","TU,","svn | gcc,",Removed all contents of existing repo. Check-out latex2rtf repo via svn & generate execs after Makefile mods. Switched version control sys to git for familiarity
+"20170309,","10:30:00 PM,","80 m,","anandi,","TU,","git | build,",Moved repo to timberlake due to presence of tex installation & relevant dependencies on the same. Modified Makefile for proper installation. Struggled w/t installation due to misconfiguration in timberlake
+"20170309,","11:50:00 PM,","15 m,","anandi,","TU | TD,","gcc | clang | tex,",Finally finished successful installation of l2r repo v. 2.3.2a to match version on which bug was recorded. Ran tests and checked prog. functionality on basic tex files. Reference: [Bug] Ticket #145 
+"20170310,","12:30:00 PM,","20 m,","anandi,","TU | TD,","gcc | clang | tex,",Wrote some more test files via tex to repicate issue reported in bug. Run and diagnostics() reported no irregular outputs using reported character “ in ngerman babel pkg. Tried special chars cases(same O/P)
+"20170310,",01:00:00 PM.,"30 m,","anandi,","TU | TD,",gcc | tex | nano,Observed patterns in the test00.tex reported from replicated bug. Compared to raw rtf doc encoding via nano. Notation discrepancy noticed w.r.t. char '!'. Wrote more test cases to verify effect on other punctuation chars
+"20170310,","01:30:00 PM,","15 m,","anandi,","TU | TD,","gcc | gdb | tex,",Irregularity found! Discrepancy observed in chars '!' & '?'. Attempting first dry run of gdb to narrow down breakpoints & locate source of the error – scanning main.c
+"20170310,","03:30:00 PM,","20 m,","anandi,","TU | TD,","gcc | gdb,","Step-through of lines 421-590 via breakpoints in main.c file (scanner/conv. Functions), ignored header parsing functions. Checking parser.c & utils.c for read methods & potential errors in file i/o stage"
+"20170310,","03:45:00 PM,","30 m,","anandi,","TU | TD,","gcc | gdb,","Gdb run through parse & utils found no errors. Checked main.c methods – lines 447, 450, 457 call preParse & ConvertString. Step-into the latter revealed the convert.c file contains conv. methods relevant to the bug."
+"20170310,","04:15:00 PM,","10 m,","anandi,","BFF | TU | TD,","gcc | gdb,","source file of bug found, call to step-through Convert() from method call in ConvertString(). Analyzing trace at line 398 showed an extra whitespace appended after the '!' & '?' chars post call to fprintRTF, when not passed in MATH_MODE. This passed an i/c referrence to ungetTexchar thereby reporting the erronous o/p to sec_head in parseLabel"
+"20170310,","04:30:00 PM,","10 m,","anandi,","TU,","git | gcc,",Bug fix patch applied. Compiles & passes all test files successfully. Final commit.
+,,,,,,
+EOF(),,,,,,
